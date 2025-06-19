@@ -1,3 +1,4 @@
-#Curso de Algoritmo em python 
+<h1>
+<b>Curso de Algoritmo em python</b>  </h1>
 
-por: Curso em video 
+<h2>Por: Curso em video </h2>
