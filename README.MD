@@ -1,3 +1,3 @@
-# ATIVIDADES 
+#Curso de Algoritmo em python 
 
---FEITAS EM PYTHON--
+por: Curso em video 
